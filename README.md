@@ -203,16 +203,11 @@ employee_id   killer        murder_location  false_claimroom  false_claimtime   
 
 Conclusion: All data points converge to identify David Kumar as the perpetrator.
 
-Skills Demonstrated
-
-Advanced SQL querying
-
-INNER & LEFT JOINs
-
-Time-based filtering
-
-Common Table Expressions (CTEs)
-
-Logical reasoning & data storytelling
+Skills Demonstrated:
+* Advanced SQL querying
+* INNER & LEFT JOINs
+* Time-based filtering
+* Common Table Expressions (CTEs)
+* Logical reasoning & data storytelling
 
 
