@@ -1,3 +1,4 @@
+[The-TechNova-Murder-Mystery.pdf](https://github.com/user-attachments/files/24232254/The-TechNova-Murder-Mystery.pdf)
 # Tech-Nova-Murder-Mystery
 SQL-based forensic data analysis project that uses key card logs, call records, alibis, and evidence to solve a simulated corporate murder mystery.
 SQL Capstone Project: TechNova Murder Mystery
